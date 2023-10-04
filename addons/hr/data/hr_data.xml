@@ -6,6 +6,10 @@
           <field name="name">Administration</field>
         </record>
 
+        <record id="dep_administration" model="hr.department">
+          <field name="name">Administration</field>
+        </record>
+
         <record id="dep_sales" model="hr.department">
           <field name="name">Sales</field>
         </record>
